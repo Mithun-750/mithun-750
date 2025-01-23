@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Svelte**
 
-- 👨‍💻 All of my projects are available at [https://mithun-750.github.io/](https://mithun-750.github.io/)
+- 👨‍💻 All of my projects are available at [mithun-u.me](https://mithun-u.me/)
 
 - 💬 Ask me about **react, next.js, electron.js**
 
